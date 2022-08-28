@@ -2,10 +2,10 @@
 ## Aim
 implement a traffic lights system with an on-demand crosswalk button.
 ## Procedure Details
-In normal mode:
+### In normal mode:
 - Cars' LEDs will be changed every five seconds starting from Green then yellow then red then yellow then Green.
 - The Yellow LED will blink for five seconds before moving to Green or Red LEDs.
-In pedestrian mode:
+### In pedestrian mode:
 - Change from normal mode to pedestrian mode when the pedestrian button is pressed.
 - If pressed when the cars' Red LED is on, the pedestrian's Green LED and the cars' Red LEDs will be on for five seconds, this means that pedestrians can cross the street while the pedestrian's Green LED is on.
 - If pressed when the cars' Green LED is on or the cars' Yellow LED is blinking, the pedestrian Red LED will be on then both Yellow LEDs start to blink for five seconds, then the cars' Red LED and pedestrian Green LEDs are on for five seconds, this means that pedestrian must wait until the Green LED is on.
