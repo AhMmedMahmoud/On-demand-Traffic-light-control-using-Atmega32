@@ -1,4 +1,5 @@
 # On-demand-Traffic-light-control-using-Atmega32
+This project is for the EgFWD Embedded Systems Professional NanoDegree Scholarship. it was written in C using Microchip Studio and Proteus 8 professional.
 ## Aim
 implement a traffic lights system with an on-demand crosswalk button.
 ## Procedure Details
@@ -14,5 +15,7 @@ implement a traffic lights system with an on-demand crosswalk button.
 - Traffic lights signals are going to the normal mode again.
 ## Project flowchart
 ![image](https://user-images.githubusercontent.com/104006521/187073420-ae479711-81ac-45de-877e-b852d0e83d45.png)
+## Demonstration
+![image](https://user-images.githubusercontent.com/104006521/189163262-51740bd8-f099-4609-91a6-f7091f1ade6c.png)
 ## Zip file 
 [here](https://drive.google.com/file/d/1WsdtbdK5yDBTqDW3TDJmWxMp75G41XCO/view?usp=sharing)
